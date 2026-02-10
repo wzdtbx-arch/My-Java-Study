@@ -20,6 +20,8 @@ public class infiniteloopDemo2{
                 // 按照图片要求舍弃小数，所以取 i-1
                 System.out.println(x + " 的平方根整数部分是: " + (i - 1));
                 break;
+
+
             }
         }
     }

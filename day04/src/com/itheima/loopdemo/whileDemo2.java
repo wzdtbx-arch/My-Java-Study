@@ -13,5 +13,6 @@ public class whileDemo2 {
         //System.out.println(temp);
         //System.out.println(num);
         System.out.println(temp==num);
+
     }
 }
