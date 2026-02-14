@@ -1,4 +1,4 @@
-package com.itheima.arraydemo;
+package arraydemo;
 
 public class ArrayMax {
     public static void main(String[] args) {

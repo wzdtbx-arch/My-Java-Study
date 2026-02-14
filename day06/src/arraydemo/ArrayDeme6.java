@@ -1,4 +1,4 @@
-package com.itheima.arraydemo;
+package arraydemo;
 
 import java.util.Random;
 

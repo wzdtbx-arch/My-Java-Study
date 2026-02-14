@@ -1,4 +1,4 @@
-package com.itheima.arraydemo;
+package arraydemo;
 
 public class ArrayDemo1 {
     public static void main(String[] args) {
